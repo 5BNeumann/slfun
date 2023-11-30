@@ -1,7 +1,4 @@
 apt-get sl
 apt-get lolcat
-sl -e | lolcat
-sl -e | lolcat
-sl -e | lolcat
-sl -e | lolcat
-sl -e | lolcat
+while true ; do sl -e | lolcat
+done
